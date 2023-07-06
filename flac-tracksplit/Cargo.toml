@@ -19,7 +19,7 @@ maintenance = { status = "passively-maintained" }
 [dependencies]
 anyhow = "1.0.71"
 bytesize = { version = "1.2.0", features = ["serde"] }
-clap = { version = "4.3.10", features = ["derive"] }
+clap = { version = "4.3.11", features = ["derive"] }
 int-conv = "0.1.4"
 metaflac = "0.2.5"
 more-asserts = "0.3.1"
